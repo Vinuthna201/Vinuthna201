@@ -41,8 +41,8 @@ Career Companion is an AI-powered career development platform designed to guide 
 
 ## 📫 Let's Stay in Touch
 
-- 📧 [vvinuthna501@gmail.com](mailto:vvinuthna501@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/vinuthna-kurra-19750b292/)
+- 📧 Email [vvinuthna501@gmail.com](mailto:vvinuthna501@gmail.com)  
+- 💼 LinkedIn [LinkedIn](https://www.linkedin.com/in/vinuthna-kurra-19750b292/)
 
 ---
 
