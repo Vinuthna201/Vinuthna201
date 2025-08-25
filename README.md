@@ -32,7 +32,7 @@ I’m always growing and currently diving into:
 
 ---
 
-## 📚 Some of My Work
+## 📚 Some of My Recent Work
 
 **🧠 Career Companion**
  is an AI-powered career development platform designed to guide users through personalized learning paths, help them build in-demand skills, and prepare effectively for job interviews. It uses Google Gemini AI to generate tailored career roadmaps and includes features like interactive tutorials, skill tracking, mock interviews, gamified progress, and PDF export. I developed both frontend and backend, focused on responsive design, secure API integration, and seamless user experience across devices.
